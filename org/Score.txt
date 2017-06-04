@@ -1,0 +1,65 @@
+
+Nombre :
+Score de Vampire restant:20
+Nombre de jours tenu: 0
+Score :
+Nombre de Vampire restant:20
+Nombre de jours tenu: 0
+Score :
+Nombre de Vampire restant:17
+Nombre de jours tenu: 0
+Score :
+Nombre de Vampire restant:18
+Nombre de jours tenu: 2
+Score :
+Nombre de Vampire restant:7
+Nombre de jours tenu: 2
+Score :
+Nombre de Vampire restant:8
+Nombre de jours tenu: 2
+Score :
+Nombre de Vampire restant:14
+Nombre de jours tenu: 3
+Score :
+Nombre de Vampire restant:20
+Nombre de jours tenu: 0
+Score :
+Nombre de Vampire restant:6
+Nombre de jours tenu: 3
+Score :
+Nombre de Vampire restant:5
+Nombre de jours tenu: 3
+Score :
+Nombre de Vampire restant:19
+Nombre de jours tenu: 1
+Score :
+Nombre de Vampire restant:3
+Nombre de jours tenu: 3
+
+Score :
+Nombre de Vampire restant:20
+Nombre de jours tenu: 0
+Score :
+Nombre de Vampire restant:10
+Nombre de jours tenu: 2
+Score :
+Nombre de Vampire restant:8
+Nombre de jours tenu: 3
+Score :
+Nombre de Vampire restant:8
+Nombre de jours tenu: 2
+Score :
+Nombre de Vampire restant:20
+Nombre de jours tenu: 0
+Score :
+Nombre de Vampire restant:20
+Nombre de jours tenu: 1
+Score :
+Nombre de Vampire restant:19
+Nombre de jours tenu: 1
+Score :
+Nombre de Vampire restant:20
+Nombre de jours tenu: 0
+Score :
+Nombre de Vampire restant:15
+Nombre de jours tenu: 1

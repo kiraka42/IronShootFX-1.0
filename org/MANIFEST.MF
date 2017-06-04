@@ -1,0 +1,3 @@
+Main-Class: ViewMain
+Class-Path: \Archives\liquidlnf.jar \jimObjModelImporterJFX.jar // Le fichier JAR contenant le Look&amp;Feel Liquid
+
