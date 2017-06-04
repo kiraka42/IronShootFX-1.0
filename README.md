@@ -25,10 +25,3 @@ Note : si pistolero disparait appuyer sur a.
 
 
 
-/!\ :javafx 3D a des bugs que nous avons experimenté et déclaré a ORACLE pour etre corrigé : 
-http://bugs.java.com/bugdatabase/view_bug.do?bug_id=JDK-8178084
-(mettre en plein ecran (<SPACE>) est une bonne idée dans ce cas.
-
-remarque :quelque code a été laissé pour montrer l'evolution du projet.(passage des sprites a obj files).
-
-/!\attention il restera toujours un vampire en vie immortel.le cauchemar ne s'arrete donc jamais.
